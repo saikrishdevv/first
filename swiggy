@@ -1,0 +1,3 @@
+hi welome
+to create user : useradd username
+to see all users : getent passwd (or) cat /e
